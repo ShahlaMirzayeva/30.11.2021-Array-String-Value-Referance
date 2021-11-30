@@ -1,0 +1,6 @@
+C:\Users\Code\Desktop\P224\ValueReferance\bin\Debug\ValueReferance.exe
+C:\Users\Code\Desktop\P224\ValueReferance\bin\Debug\ValueReferance.pdb
+C:\Users\Code\Desktop\P224\ValueReferance\obj\Debug\ValueReferance.csproj.AssemblyReference.cache
+C:\Users\Code\Desktop\P224\ValueReferance\obj\Debug\ValueReferance.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\P224\ValueReferance\obj\Debug\ValueReferance.exe
+C:\Users\Code\Desktop\P224\ValueReferance\obj\Debug\ValueReferance.pdb
